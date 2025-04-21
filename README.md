@@ -7,9 +7,8 @@ This lab demonstrates how to launch an Amazon EC2 instance, install Apache (http
 - Created a basic `index.html` page and served it from `/var/www/html`
 
 ## 🌐 Live Website (via EC2 Public IP)
-**URL:** http://<your-ec2-public-ip>
+**URL:** (http://18.119.139.223/)
 
-> Replace `<your-ec2-public-ip>` with your instance’s actual public IP address
 
 ## 📁 Files Included
 - `index.html` – Custom HTML file served from Apache on EC2
